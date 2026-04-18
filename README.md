@@ -29,3 +29,7 @@ To view the profile page:
 - `index.html`: The main entry point containing the structure and styles.
 - `.qmmitignore`: Configuration for the `qmmit` tool.
 - `.qmmit/`: Local logs and data for the `qmmit` tool.
+
+## Author
+
+- **Chandan**

@@ -27,8 +27,7 @@ To view the profile page:
 ## Project Structure
 
 - `index.html`: The main entry point containing the structure and styles.
-- `.qmmitignore`: Configuration for the `qmmit` tool.
-- `.qmmit/`: Local logs and data for the `qmmit` tool.
+- `bio.html`: A detailed biography page focusing on the "Zero to One" philosophy.
 
 ## Author
 
